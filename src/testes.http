@@ -1,0 +1,11 @@
+### Criar um novo projeto
+POST http://localhost:8080/projetos
+Content-Type: application/json
+
+{
+  "nome": "Meu Primeiro Projeto Fullstack",
+  "descricao": "Sistema de Gestão de Tarefas"
+}
+
+### Listar todos os projetos
+GET http://localhost:8080/projetos
