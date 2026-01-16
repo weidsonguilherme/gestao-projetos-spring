@@ -25,4 +25,4 @@ API REST desenvolvida para gerenciamento de projetos e suas respectivas tarefas,
 - `POST /tarefas`: Cria uma tarefa vinculada a um `projeto_id`.
 
 ---
-Desenvolvido por [Seu Nome] durante estudos de Backend com Spring Boot.
+Desenvolvido por [Weidson Guilherme] durante estudos de Backend com Spring Boot.
